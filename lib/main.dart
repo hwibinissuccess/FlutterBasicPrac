@@ -3,7 +3,21 @@ import 'package:flutter/material.dart';
 void main() {
   runApp(MaterialApp(
     home: Scaffold(
-      body: TestWidget(),
+      appBar: AppBar(
+        actions: [
+          Icon(Icons.home),
+          Icon(Icons.play_arrow)
+        ],
+        centerTitle: false,
+        title: Text('This is App bar'),
+      ),
+      body: TestWidget(
+      ),
+      floatingActionButton: FloatingActionButton(
+          child: Icon(Icons.bug_report),
+          onPressed: (){
+            print('TAB!');
+          }),
     ),
   ));
 }
@@ -18,7 +32,7 @@ class TestWidget extends StatelessWidget {
         child: Text(
           'Hello, Flutter',
           style: TextStyle(
-            fontSize: 40,
+            fontSize: 60,
             color: Colors.black,
           ),
         ),
