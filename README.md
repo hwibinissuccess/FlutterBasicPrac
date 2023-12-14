@@ -18,8 +18,7 @@
 ## 인스타그램 UI 클론 코딩
  - 홈화면
 
-![412412412 (1)](https://github.com/hwibinissuccess/FlutterBasicPrac/assets/106446510/4dfbefa7-8b69-4f41-9e3c-adec346c0c73)
- - 검색화면
+![412412412 (1)](https://github.com/hwibinissuccess/FlutterBasicPrac/assets/106446510/4dfbefa7-8b69-4f41-9e3c-adec346c0c73) - 검색화면
 
 ![dfqer12412 (1)](https://github.com/hwibinissuccess/FlutterBasicPrac/assets/106446510/11176b59-e88d-4567-8451-a810ee3eb04a)
 
