@@ -21,5 +21,6 @@
 
 
  - 검색화면
-![dfqer12412](https://github.com/hwibinissuccess/FlutterBasicPrac/assets/106446510/426430e9-d29c-41e1-a57e-95bcb736f011)
+![dfqer12412 (1)](https://github.com/hwibinissuccess/FlutterBasicPrac/assets/106446510/11176b59-e88d-4567-8451-a810ee3eb04a)
+
 
